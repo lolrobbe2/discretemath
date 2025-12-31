@@ -20,3 +20,12 @@
       * [4 Contradiction](/CHAPTER1/proof_strategies/contradiction.md)
       * [5 Mathematical Induction](/CHAPTER1/proof_strategies/mathimatical_induction.md)
     * [Tips](/CHAPTER1/proof_strategies/tips.md)
+* Chapter 2
+  * [Collections (**5**)](/CHAPTER2/collections.md)
+    * [Natural Numbers](/CHAPTER2/collections/Natural_Numbers.md)
+    * [Integers](/CHAPTER2/collections/Integers.md)
+    * [Rationals](/CHAPTER2/collections/Rationals.md)
+    * [Real Numbers](/CHAPTER2/collections/Real_Numbers.md)
+    * [Complex Numbers](/CHAPTER2/collections/Complex_Numbers.md)
+  * [Integer Modulo](/CHAPTER2/Integer_modulo.md)
+  * [Sub Collections](/CHAPTER2/subcollections.md)
