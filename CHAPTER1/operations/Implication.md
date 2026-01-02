@@ -24,6 +24,7 @@ The `implication` of `q` from `p` is *false* if and only if **p is true and q is
 | 0   | 0   | 1      |
 | 0   | 1   | 1      |
 | 1   | 0   | 0      |
+| 1   | 1   | 1      |
 
 ## Necessary and Sufficient Conditions
 

@@ -8,7 +8,7 @@
     * [Disjunction (**OR**)](/CHAPTER1/operations/Disjunction.md)
     * [Exclusive Disjunction (**XOR**)](/CHAPTER1/operations/ExclusiveDisjunction.md)
     * [Implication (**IF**)](/CHAPTER1/operations/Implication.md)
-    * [BiConditional (**IF ONLY**)](/CHAPTER1/operations/Implication.md)
+    * [BiConditional (**IF ONLY**)](/CHAPTER1/operations/Biconditional.md)
     * [Rules](/CHAPTER1/operations/Precedence.md)
     * [Simplify](/CHAPTER1/operations/Simplifying.md)
   * Proof Strategies
