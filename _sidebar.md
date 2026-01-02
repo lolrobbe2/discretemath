@@ -11,6 +11,7 @@
     * [BiConditional (**IF ONLY**)](/CHAPTER1/operations/Biconditional.md)
     * [Rules](/CHAPTER1/operations/Precedence.md)
     * [Simplify](/CHAPTER1/operations/Simplifying.md)
+  * [Equivalence](/CHAPTER1/Equivalence.md)
   * Proof Strategies
     * [Types](/CHAPTER1/proof_strategies/types.md)
     * [Reasoning (**2**)](/CHAPTER1/proof_strategies/reasoning.md)
