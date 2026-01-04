@@ -31,3 +31,10 @@
     * [Complex Numbers](/CHAPTER2/collections/Complex_Numbers.md)
   * [Integer Modulo](/CHAPTER2/Integer_modulo.md)
   * [Sub Collections](/CHAPTER2/subcollections.md)
+* Chapter 3
+  * [Divisibilty](/CHAPTER3/divisibility.md)
+  * [Prime Numbers](/CHAPTER3/prime_numbers.md)
+  * [Statements](/CHAPTER3/statements.md)
+  * [Division](/CHAPTER3/division.md)
+  * [GGD KGV](/CHAPTER3/prime_numbers.md)
+  * [Eucledian](/CHAPTER3/eucledian_algo.md)  
